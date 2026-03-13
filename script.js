@@ -190,6 +190,6 @@ console.log(`Explanation: Builds sequence: 0, 1, (0+1)=1, (1+1)=2, (1+2)=3`);
 
 // Argument 5: 8 terms
 const arg5 = 8;
-// console.log(`\nArgument: ${arg5}`);
-// console.log(`Result: [${fibonacci(arg5)}]`);
-// console.log(`Explanation: Full sequence: 0,1,1,2,3,5,8,13`);
+console.log(`\nArgument: ${arg5}`);
+console.log(`Result: [${fibonacci(arg5)}]`);
+console.log(`Explanation: Full sequence: 0,1,1,2,3,5,8,13`);
